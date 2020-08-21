@@ -1,0 +1,10 @@
+D:\dev\sincronidade\Syncronidade\Syncronidade\bin\Debug\Syncronidade.exe.config
+D:\dev\sincronidade\Syncronidade\Syncronidade\bin\Debug\Syncronidade.exe
+D:\dev\sincronidade\Syncronidade\Syncronidade\bin\Debug\Syncronidade.pdb
+D:\dev\sincronidade\Syncronidade\Syncronidade\obj\Debug\Syncronidade.csprojAssemblyReference.cache
+D:\dev\sincronidade\Syncronidade\Syncronidade\obj\Debug\Syncronidade.Form1.resources
+D:\dev\sincronidade\Syncronidade\Syncronidade\obj\Debug\Syncronidade.Properties.Resources.resources
+D:\dev\sincronidade\Syncronidade\Syncronidade\obj\Debug\Syncronidade.csproj.GenerateResource.cache
+D:\dev\sincronidade\Syncronidade\Syncronidade\obj\Debug\Syncronidade.csproj.CoreCompileInputs.cache
+D:\dev\sincronidade\Syncronidade\Syncronidade\obj\Debug\Syncronidade.exe
+D:\dev\sincronidade\Syncronidade\Syncronidade\obj\Debug\Syncronidade.pdb
